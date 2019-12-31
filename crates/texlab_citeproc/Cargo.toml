@@ -8,10 +8,10 @@ edition = "2018"
 
 [dependencies]
 bibutils = { path = "../bibutils" }
-citeproc = { git = "https://github.com/cormacrelf/citeproc-rs", rev = "8908674c2ae55332290e873de16f0e78989287ba" }
-citeproc-db = { git = "https://github.com/cormacrelf/citeproc-rs", rev = "8908674c2ae55332290e873de16f0e78989287ba" }
-citeproc-io = { git = "https://github.com/cormacrelf/citeproc-rs", rev = "8908674c2ae55332290e873de16f0e78989287ba" }
-csl = { git = "https://github.com/cormacrelf/citeproc-rs", rev = "8908674c2ae55332290e873de16f0e78989287ba" }
+citeproc = { git = "https://github.com/MetaDark/citeproc-rs", rev = "c59eadfe944734400478aeeb2d2dda6f6bee68fd" }
+citeproc-db = { git = "https://github.com/MetaDark/citeproc-rs", rev = "c59eadfe944734400478aeeb2d2dda6f6bee68fd" }
+citeproc-io = { git = "https://github.com/MetaDark/citeproc-rs", rev = "c59eadfe944734400478aeeb2d2dda6f6bee68fd" }
+csl = { git = "https://github.com/MetaDark/citeproc-rs", rev = "c59eadfe944734400478aeeb2d2dda6f6bee68fd" }
 fnv = "1.0.3"
 html2md = "0.2.9"
 itertools = "0.8.2"
